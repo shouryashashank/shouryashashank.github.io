@@ -124,7 +124,7 @@
 
           <nav class="demo-nav mdl-color-text--grey-50 mdl-cell mdl-cell--12-col">
             <a href="   {%  if page.i==1  %}
-            			default.html
+            			project.html
             		{% else %}	
             			{{  (page.i)|minus:1  }}
             		{% endif %}	" class="demo-nav__button">
