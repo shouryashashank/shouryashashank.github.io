@@ -2,17 +2,14 @@
 title: Fuchsia OS
 layout: default
 link: https://github.com/deadshourya/
-pic: /images/fos1.jpg
+pic: /images/fos0.jpg
 date: MAY 22, 2017
 i: 0
 
 ---
 
 
-The first good look at Google’s open source operating system Fuchsia OS is here. Discovered by Hotfixit, the default GUI of Fuchsia is Armadillo and it’s the default UI for Fuchsia. The interface looks like a card-based system and contains Google Now-like suggestions. Build using Google’s Futter SDK, you can compile the code as and APK and run on your Android OS. 
-
-
-Last year, we introduced you to Google’s new operating system in works, which is called Fuchsia. It has been a while that it has even got its new logo. If you’re familiar with Fuchsia, you might be knowing that unlike Android and Chrome OS, this open source operating system isn’t based on Linux kernel. You can read more about Fuchsia and Magenta kernel in our dedicated post.
+The first good look at Google’s open source operating system Fuchsia OS is here.The default GUI of Fuchsia is Armadillo and it’s the default UI for Fuchsia. The interface looks like a card-based system and contains Google Now-like suggestions. Build using Google’s Futter SDK, you can compile the code as and APK and run on your Android OS. 
 
 Google describes Fuchsia OS as an operating system for modern phones and computers. Now, in the latest development, it looks like Fuchsia has got an early interface. It features Google’s favorite card-based design and looks very fluid.
 
